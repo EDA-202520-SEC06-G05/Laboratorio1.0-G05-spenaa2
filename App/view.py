@@ -139,8 +139,6 @@ def main():
         # Esta función carga los tags de los libros en el catalogo.
         # Puede guiarse de las opciones 1 y 2.
         # Imprima el total de tags de los libros cargados.
-        elif int(inputs[0]) == 3:
-            pass
 
         elif int(inputs[0]) == 0:
             working = False
