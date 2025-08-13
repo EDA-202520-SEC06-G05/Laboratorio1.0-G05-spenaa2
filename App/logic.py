@@ -112,7 +112,7 @@ def load_tags(catalog, filename):
     :returns: Tamaño del conjunto de tags
     :rtype: int
     """
-    tags = catalog.get("tags")
+    tags = catalog["tags"]
     tagsfile = os.path.join(data_dir, filename)
     catalog["tags"] = set.load_set(tags, tagsfile)
     if empty_tags(catalog):

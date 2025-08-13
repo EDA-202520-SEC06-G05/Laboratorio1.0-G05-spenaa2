@@ -38,9 +38,9 @@ Este repositorio forma parte del marco docente de estructura de datos y algoritm
 
 Los estudiantes editan esta sección para agregar sus nombres, correos electrónicos de Uniandes y especificar qué funcionalidad de proyecto implementarán.
 
-1. Simón Peña Alarcón , s.penaa2@uniandes.edu.co, 202512907
-1. Manuel Santiago Figueroa , m.figueroag@uniandes.edu.co, 202511697
-1. Juan Sebastian Chacón, j.chacono@uniandes.edu.co, 202513196
+1. Simón Peña Alarcón / s.penaa2@uniandes.edu.co / 202512907
+2. Manuel Santiago Figueroa / m.figueroag@uniandes.edu.co / 202511697
+3. Juan Sebastian Chacón / j.chacono@uniandes.edu.co / 202513196
 
 [Volver al inicio](#laboratorio-1)
 
